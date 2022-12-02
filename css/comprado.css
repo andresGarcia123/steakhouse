@@ -1,0 +1,52 @@
+body{
+    background-color: #E82805;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+
+}
+.gracias{
+    text-align: center;
+    font-family: 'Walter Turncoat';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    font-size: 100px;
+    text-align: center;
+
+    color: white;
+    padding: 50px;
+    border: 0px;
+    margin: 0px;
+}
+.orden{
+    font-family: 'Anton';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding: 0px;
+    border: 0px;
+    margin: 50px;
+}
+
+#barra_navegacion{
+    
+    list-style-type: none;
+    background-color: black;
+    overflow: hidden;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    
+}
+
+.opcionesG{
+    float: center;
+}
+
+.opcionesG:hover{
+    background-color: #4D4D4D;
+}

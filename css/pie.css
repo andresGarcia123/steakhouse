@@ -1,0 +1,38 @@
+#pie{
+    background-color: black;
+    padding: 10px 0px;
+    border: 0px;
+    margin: 0px;
+}
+
+
+#contacto_lista{
+    list-style-type: none;
+}
+
+#pie_titulo{
+    font-family: 'Walter Turncoat';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    font-size: 40px;
+    color: white;
+    padding: 0px 20px;
+}
+
+.texto_pie{
+    font-family: 'Anton';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    font-size: 16px;
+    color: white;
+}
+
+.link_pie{
+    text-decoration: none;
+    color: white;
+}
+.link_pie:hover{
+    color: #FF9007;
+}

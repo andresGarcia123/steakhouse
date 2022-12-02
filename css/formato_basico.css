@@ -1,0 +1,63 @@
+body{
+    background-color: #FFC305;
+    margin: 0px;
+}
+.secciones{
+    padding: 0px 0px;
+    border: 0px;
+    margin: 0px;
+
+}
+
+.titulos{
+    font-family: 'Walter Turncoat';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    font-size: 40px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: 0px;
+    margin: 0px;
+
+}
+
+.subtitulos{
+    font-family: 'Anton';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    font-size: 25px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border: 0px;
+    margin: 0px;
+
+}
+
+
+.parrafos{
+    font-family: 'Anton';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    padding: 0px;
+    border: 0px;
+    margin: 50px;
+
+
+}
+
+.imagenes{
+    text-align: center;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}

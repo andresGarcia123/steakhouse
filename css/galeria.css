@@ -1,0 +1,9 @@
+.galeria{
+    margin: 20px 20px;
+    box-shadow: 0 0px 0px black;
+    float: left;
+    width: 350px;
+}
+.galeria img{
+    width: 100%;
+}

@@ -1,0 +1,68 @@
+/**/
+/*Formato del header*/
+#encabezado{
+    background-color: #FF9007;
+    text-align: center;
+    padding: 20px 0px 0px; 
+    margin: 0px;
+    
+}
+
+/*Nombre del restaurante*/
+
+#nombre_restaurante{
+    font-family: 'Anton'; /*fuentes extraidas de google fonts. Decorativas*/
+    font-size: 50px;
+    color: #573001;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+
+.parrafos_navegacion{
+    font-family: 'Anton';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    font-size: 16px;
+
+    text-align: center;
+    color: white;
+    padding: 10px;
+    border: 0px;
+    margin: 0px;
+}
+
+
+/*Formato de la barra de navegacion en forma de lista*/
+
+#barra_navegacion{
+    
+    list-style-type: none;
+    background-color: #E82805;
+    overflow: hidden;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    
+}
+
+/*Clase de elementos de la lista de redirecion*/
+.opciones{
+    float: left;
+}
+
+/*Links manejados*/
+.opciones_{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    
+}
+/*Formato de los links cuando se ponde el mouse encima*/
+
+.opciones:hover{
+    background-color: #FF2F0D;
+}
